@@ -29,3 +29,8 @@ This project is primarily aimed at younger audiences and users without any speci
 Additionally, the project would be suitable for a wider audience such as (if the journal went on display) museum visitors, as it demonstrates how digital tools can enhance cultural heritage artefacts and increase engagement that otherwise may not have been possible. 
 
 
+# Final Project
+
+Download and view the completed project presentation below:
+
+[Download Final Project PDF](Overall_Project.pdf)
