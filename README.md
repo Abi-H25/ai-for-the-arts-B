@@ -74,3 +74,10 @@ View the bibliography and supporting academic references used throughout the pro
 [Open References Notebook](References.ipynb)
 
 ---
+
+## Example Workflow
+View the example workflow used throughout this project:
+
+[Open Workflow Notebook](Worflow_Demonstration.ipynb)
+
+---
