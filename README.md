@@ -3,14 +3,14 @@ Repository for the lab work of AI for AH part B
 
 ## **Introduction** 
 This project explores how human and AI collaboration can be applied to a historical travel journal to reinterpret and communicate different perspectives to a modern audience. In recent years, digital tools and generative AI have been used alongside cultural heritage projects to increase access and enhance experiences for users. 
-Despite its historical value, the travel journal presents barriers to access with the difficult to understand handwritten text and language as well as non-accessible context for non-specialist users. 
+Despite its historical value, the Journal of a Continental Tour, 1867-1868, presents barriers to access with the difficult to understand handwritten text and language as well as non-accessible context for non-specialist users (University of Glasgow Collections, 2026). 
 
 By adopting generative AI storytelling with the 19th century Journal of a Continental Tour, this project will focus on who travelled and why and highlight the social and cultural as well as some economic realities of travel during this time. Through using AI to transform the Journal into a more accessible and engaging format, the project aims to increase the overall understanding of historical travel and the potential demographics of users who can gain historical context and knowledge from it. 
 
 ---
 
 ## **Object Background** 
-The object chosen for this from the University of Glasgow archive is the Journal of Continental Tour (GB 247 MS Gen 13). The journal was created between 1867 and 1868 by Andrew Macgeorge and documents his travels through particularly the south of France. 
+The object chosen for this from the University of Glasgow archive is the Journal of Continental Tour (GB 247 MS Gen 13). The journal was created between 1867 and 1868 by Andrew Macgeorge and documents his travels through France (University of Glasgow Collections, 2026). 
 
 The journal contains an array of written observations, hand drawn images, early photographs in addition to other interesting artefacts that all reflect the different areas of the journey through France. 
 
